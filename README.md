@@ -1,12 +1,12 @@
-# Discord Chat Bot
+# My Discord Chat Bot
 
-A feature-rich Discord chat bot developed in high school that provided utility, information, and server-member features through customizable commands. The bot integrated external APIs and maintained persistent member data to provide personalized server statistics.
+A feature-rich Discord chat bot I developed in high school that provided utility, information, and server-member features through customizable commands. The bot integrated external APIs and maintained persistent member data to provide personalized server statistics.
 
 ## Features
 
 * **Daily** — Provides users with a daily reward or interaction.
 * **Define** — Looks up and returns word definitions.
-* **Image Lookup** — Searches for and returns relevant images based on user queries.
+* **Image Lookup** — Searches for and returns relevant images based on user queries using web scraping.
 * **Dictionary** — Provides dictionary and word-related information.
 * **Member Statistics** — Stores and retrieves information about server members and displays their statistics.
 * **Server Data Tracking** — Maintains persistent data for members across interactions.
